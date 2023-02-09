@@ -606,6 +606,10 @@ a.add-icon:active {
     color: #fff;
 }
 
+a.add-icon:link {
+    color: #fff;
+ }
+
 .add-icon {
     text-decoration: none;
 }
