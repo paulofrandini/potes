@@ -1023,6 +1023,15 @@ a.add-icon:link {
 
 
 @media only screen and (max-width:691px) {
+    .image {
+        height: auto;
+        min-width: 1030px;
+    }
+
+    .img {
+        left: 180px;
+    }
+
     .img-bolsas { 
         width: 60%;
     }
@@ -1108,6 +1117,15 @@ a.add-icon:link {
 
 
     @media only screen and (max-width:522px) {
+        .image {
+            height: auto;
+            min-width: 900px;
+        }
+
+        .img {
+            left: 160px;
+        }
+
         .tres-1 h1{
             padding: 50px;
         }
@@ -1161,7 +1179,14 @@ a.add-icon:link {
 }
 
     @media only screen and (max-width:437px) {
-        .img {}
+        .image {
+            height: auto;
+            min-width: 860px;
+        }
+        
+        .img {
+            left: 170;
+        }
 
         .div6 h1 {
             font-size: 25px;
@@ -1200,7 +1225,14 @@ a.add-icon:link {
 }
 
 @media only screen and (max-width:394px) {
-    .img { }
+    .image {
+        height: auto;
+        min-width: 1050px;
+    }
+    
+    .img {
+        left: 50px;
+    }
 
     .div6 h1 {
         font-size: 22px;
